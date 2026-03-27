@@ -1,0 +1,2 @@
+cmp/guides/cloudaccounts/cloudaccount.md
+shared/development/changelog/release-3_11/3-11-12.md

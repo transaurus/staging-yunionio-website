@@ -1,0 +1,42 @@
+{
+  "title": {
+    "message": "Cloudpods",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Cloudpods Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.文档": {
+    "message": "Docs",
+    "description": "Navbar item with label 文档"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.博客": {
+    "message": "Blog",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.服务订阅": {
+    "message": "Subscription",
+    "description": "Navbar item with label 服务订阅"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.私有云": {
+    "message": "Private Cloud",
+    "description": "Navbar item with label 私有云"
+  },
+  "item.label.多云管理": {
+    "message": "Multi-Cloud Management",
+    "description": "Navbar item with label 多云管理"
+  },
+  "item.label.物理机管理": {
+    "message": "Baremetal Management",
+    "description": "Navbar item with label 物理机管理"
+  }
+}
