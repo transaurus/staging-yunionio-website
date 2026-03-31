@@ -1,27 +1,63 @@
 {
   "version.label": {
-    "message": "4.0",
+    "message": "3.11",
     "description": "The label for version current"
   },
-  "sidebar.sharedSidebar.category.产品介绍": {
-    "message": "产品介绍",
-    "description": "The label for category '产品介绍' in sidebar 'sharedSidebar'"
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
   },
-  "sidebar.sharedSidebar.category.运维手册": {
-    "message": "运维手册",
-    "description": "The label for category '运维手册' in sidebar 'sharedSidebar'"
+  "sidebar.tutorialSidebar.category.Private Cloud": {
+    "message": "Private Cloud",
+    "description": "The label for category Private Cloud in sidebar tutorialSidebar"
   },
-  "sidebar.sharedSidebar.category.升级": {
-    "message": "升级",
-    "description": "The label for category '升级' in sidebar 'sharedSidebar'"
+  "sidebar.tutorialSidebar.category.Common Problems": {
+    "message": "Common Problems",
+    "description": "The label for category Common Problems in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Multi-Cloud Management": {
+    "message": "Multi-Cloud Management",
+    "description": "The label for category Multi-Cloud Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hybrid Cloud": {
+    "message": "Hybrid Cloud",
+    "description": "The label for category Hybrid Cloud in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "The label for category Miscellaneous in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.guides": {
+    "message": "guides",
+    "description": "The label for category guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.virt": {
+    "message": "virt",
+    "description": "The label for category virt in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.network": {
+    "message": "network",
+    "description": "The label for category network in sidebar tutorialSidebar"
+  },
+  "sidebar.sharedSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category 'Introduction' in sidebar 'sharedSidebar'"
+  },
+  "sidebar.sharedSidebar.category.Operations": {
+    "message": "Operations",
+    "description": "The label for category 'Operations' in sidebar 'sharedSidebar'"
+  },
+  "sidebar.sharedSidebar.category.Upgrade": {
+    "message": "Upgrade",
+    "description": "The label for category 'Upgrade' in sidebar 'sharedSidebar'"
   },
   "sidebar.sharedSidebar.category.Kubernetes运维": {
     "message": "Kubernetes运维",
     "description": "The label for category 'Kubernetes运维' in sidebar 'sharedSidebar'"
   },
-  "sidebar.sharedSidebar.category.数据库运维": {
-    "message": "数据库运维",
-    "description": "The label for category '数据库运维' in sidebar 'sharedSidebar'"
+  "sidebar.sharedSidebar.category.Databases": {
+    "message": "Databases",
+    "description": "The label for category 'Databases' in sidebar 'sharedSidebar'"
   },
   "sidebar.sharedSidebar.category.高可用环境": {
     "message": "高可用环境",
@@ -47,9 +83,9 @@
     "message": "平台常见问题",
     "description": "The label for category '平台常见问题' in sidebar 'sharedSidebar'"
   },
-  "sidebar.sharedSidebar.category.开发手册": {
-    "message": "开发手册",
-    "description": "The label for category '开发手册' in sidebar 'sharedSidebar'"
+  "sidebar.sharedSidebar.category.Development": {
+    "message": "Development",
+    "description": "The label for category 'Development' in sidebar 'sharedSidebar'"
   },
   "sidebar.sharedSidebar.category.API 与 SDK": {
     "message": "API 与 SDK",
@@ -99,17 +135,9 @@
     "message": "release/3.3",
     "description": "The label for category 'release/3.3' in sidebar 'sharedSidebar'"
   },
-  "sidebar.sharedSidebar.category.发布日志": {
-    "message": "发布日志",
-    "description": "The label for category '发布日志' in sidebar 'sharedSidebar'"
-  },
-  "sidebar.sharedSidebar.category.getting-started": {
-    "message": "getting-started",
-    "description": "The label for category 'getting-started' in sidebar 'sharedSidebar'"
-  },
-  "sidebar.sharedSidebar.category.融合云": {
-    "message": "融合云",
-    "description": "The label for category '融合云' in sidebar 'sharedSidebar'"
+  "sidebar.sharedSidebar.category.Release Notes": {
+    "message": "Release Notes",
+    "description": "The label for category 'Release Notes' in sidebar 'sharedSidebar'"
   },
   "sidebar.sharedSidebar.category.guides": {
     "message": "guides",
